@@ -1,1 +1,1 @@
-func sum(){return 1+2}
+func multiply(){return 1+2}
