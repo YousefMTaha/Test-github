@@ -1,4 +1,4 @@
 function divide() {
-    return 8 * 2;
+    return 10 * 2;
   }
   
